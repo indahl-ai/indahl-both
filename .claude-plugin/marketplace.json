@@ -1,0 +1,17 @@
+{
+  "name": "indahl-both",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-both",
+      "source": "./",
+      "description": "Hold two competing explanations open instead of settling on one too early. Keeps an evidence ledger for each, reports A, B, BOTH, NEITHER or OPEN, and names the test that would separate them. Runs inside your session.",
+      "version": "1.0.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
